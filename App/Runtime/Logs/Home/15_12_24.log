@@ -1,0 +1,236 @@
+[ 2015-12-24T19:15:17+08:00 ] 192.168.33.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001793s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011105s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001570s ]
+
+[ 2015-12-24T19:23:37+08:00 ] 192.168.33.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2015-12-24T19:29:11+08:00 ] 192.168.33.1 /Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2015-12-24T19:31:35+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2015-12-24T19:31:42+08:00 ] 192.168.33.1 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014864s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2015-12-24T19:31:45+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2015-12-24T19:31:55+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001453s ]
+
+[ 2015-12-24T19:34:55+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' /var/www/html/App/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2015-12-24T19:35:12+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001622s ]
+
+[ 2015-12-24T19:35:28+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2015-12-24T19:39:18+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2015-12-24T19:39:22+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2015-12-24T19:39:22+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2015-12-24T19:39:22+08:00 ] 192.168.33.1 /Home/Index/index1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001757s ]
+
+[ 2015-12-24T19:47:40+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:48:04+08:00 ] 192.168.33.1 /Home/Index/__JS__.%22/jquery.js%22
+ERR: 非法操作:__JS__."
+
+[ 2015-12-24T19:48:20+08:00 ] 192.168.33.1 /Home/Index/.%22/jquery.js%22
+ERR: 非法操作:."
+
+[ 2015-12-24T19:48:32+08:00 ] 192.168.33.1 /Home/Index/jquery.js
+ERR: 非法操作:jquery.js
+
+[ 2015-12-24T19:49:30+08:00 ] 192.168.33.1 /Home/Index/%7B%7D
+ERR: 非法操作:{}
+
+[ 2015-12-24T19:50:58+08:00 ] 192.168.33.1 /Home/Index/Public/Js/jquery-2.1.4.js
+ERR: 非法操作:Public
+
+[ 2015-12-24T19:51:31+08:00 ] 192.168.33.1 /Home/Index/Public/Js/jquery-2.1.4.js
+ERR: 非法操作:Public
+
+[ 2015-12-24T19:53:16+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:50+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:51+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:51+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:52+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:52+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:57+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:57+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:58+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:53:58+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:55:10+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:55:10+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:55:11+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
+[ 2015-12-24T19:55:11+08:00 ] 192.168.33.1 /Home/Index/__JS__/jquery-2.1.4.js
+ERR: 非法操作:__JS__
+
